@@ -347,6 +347,11 @@ section {
   font-size: 25px;
 }
 
+.subtitulo h4 {
+  color: #f96f59;
+  font-size: 25px;
+}
+
 .sticked-header-offset {
   margin-top: 70px;
 }
